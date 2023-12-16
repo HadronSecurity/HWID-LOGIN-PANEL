@@ -1,0 +1,22 @@
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\HWİD Login Panel.exe.config
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\HWİD Login Panel.exe
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\HWİD Login Panel.pdb
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\Guna.UI2.dll
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\obj\Debug\HWİD Login Panel.csproj.AssemblyReference.cache
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\obj\Debug\HWİD_Login_Panel.Form1.resources
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\obj\Debug\HWİD_Login_Panel.Properties.Resources.resources
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\obj\Debug\HWİD Login Panel.csproj.GenerateResource.cache
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\obj\Debug\HWİD Login Panel.csproj.CoreCompileInputs.cache
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\obj\Debug\HWİD Login Panel.csproj.CopyComplete
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\obj\Debug\HWİD Login Panel.exe
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\obj\Debug\HWİD Login Panel.pdb
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\Firebase.dll
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\LiteDB.dll
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\System.CodeDom.dll
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\System.Reactive.dll
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\Firebase.xml
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\LiteDB.xml
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\System.CodeDom.xml
+C:\Users\Ejder\source\repos\HWİD Login Panel\HWİD Login Panel\bin\Debug\System.Reactive.xml
